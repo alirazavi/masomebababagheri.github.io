@@ -1,8 +1,4 @@
-<style type="text/css">
-body{
- direction:rtl;
-}
-</style>
+
 ### معصومه باباباقری
 
 ### اطلاعات شخصی
